@@ -4,6 +4,12 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+pandas = "*"
+numpy = "*"
+sqlalchemy = "*"
+jupyter = "*"
+psycopg2 = "*"
+time-python = "*"
 
 [dev-packages]
 
